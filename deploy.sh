@@ -1,0 +1,1 @@
+zip -r lambda.zip lambda -x *.env* -x *__pycache__*
